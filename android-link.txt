@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://anthony-riders-lightbox-findings.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://dimensions-shape-look-avenue.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-22 14:36:02 UTC
+Created   : 2026-09-22 18:46:18 UTC
 =======================================================
