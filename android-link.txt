@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://fathers-lights-sorts-columnists.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://blake-lip-implies-guild.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-10-24 09:30:54 UTC
+Created   : 2026-10-24 14:03:14 UTC
 =======================================================
